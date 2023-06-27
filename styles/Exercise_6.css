@@ -1,0 +1,23 @@
+p {
+  font-family: montserrat;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.model {
+  text-align: center;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.order {
+  text-align: center;
+  font-weight: 400;
+  font-size: 23px;
+  margin-top: 12px;
+}
+
+.delivery {
+  text-decoration: underline;
+  cursor: pointer;
+}
