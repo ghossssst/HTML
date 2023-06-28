@@ -13,6 +13,11 @@
   vertical-align: middle;
 }
 
+.google-search {
+  width: 400px;
+  text-align: center;
+}
+
 .input-google {
   margin-top: 0px;
   background-color: white;
@@ -22,7 +27,7 @@
   width: 400px;
   border: none;
   border-radius: 20px;
-  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
   outline: none;
 }
 
@@ -32,6 +37,32 @@
   margin-left: 110px;
   width: 180px;
   display: block;
+}
+
+.google-search-button {
+  border: none;
+  margin-top: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.google-search-button:hover {
+  background-color: rgb(224, 224, 224);
+}
+
+.lucky {
+  border: none;
+  margin-top: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px; 
+}
+
+.lucky:hover {
+  background-color: rgb(224, 224, 224);
 }
 
 .first-name {
